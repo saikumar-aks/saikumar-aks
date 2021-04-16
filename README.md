@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @saikumar-aks
+- 👀 I’m interested in Python , c++ ,competitive programming , cloud computing , Microsoft azure , CCNA , Cybersecurity 
+- 🌱 I’m currently learning Cloud computing  , Microsoft Azure , SQL , DBMS
+- 💓 My long term goal is to Do MBA in IT and want to become CISO
+- 💙 I'm much more interested in Working with a team and want to learn new concepts  every day , Build realworld projects. And want to Grow with a Company.
