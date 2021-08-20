@@ -3,4 +3,4 @@
 - stopstalk  -> https://www.stopstalk.com/user/profile/saikumar2613
 - Hackerrank -> https://www.hackerrank.com/saikumar2613
 - Codeforces -> https://codeforces.com/profile/saikumar2613
-- (L+E+S)*M = Happy Life  --> L=Learning, E=Exercising, S=Socializing, M=Motivation
+- (L+E+S+T)*M = Happy Life  --> L=Learning, E=Exercising, S=Socializing, M=Motivation, T=Travelling
